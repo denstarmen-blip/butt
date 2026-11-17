@@ -1,0 +1,12 @@
+{
+  "item.carcass.flint_knife": "Кремінний ніж",
+  "item.carcass.iron_knife": "Залізний ніж",
+  "item.carcass.golden_knife": "Золотий ніж",
+  "item.carcass.diamond_knife": "Алмазний ніж",
+  "item.carcass.netherite_knife": "Незеритовий ніж",
+  "entity.carcass.corpse": "Труп",
+  "message.carcass.need_knife": "Щоб розрізати труп, потрібен ніж",
+  "message.carcass.cutting": "Розрізання: %s%%",
+  "tooltip.carcass.bonus": "Шанс додаткового предмета: %s%%",
+  "tooltip.carcass.speed": "Час розрізання: %s с"
+}

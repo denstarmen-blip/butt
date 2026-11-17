@@ -1,0 +1,12 @@
+{
+  "item.carcass.flint_knife": "Flint Knife",
+  "item.carcass.iron_knife": "Iron Knife",
+  "item.carcass.golden_knife": "Golden Knife",
+  "item.carcass.diamond_knife": "Diamond Knife",
+  "item.carcass.netherite_knife": "Netherite Knife",
+  "entity.carcass.corpse": "Corpse",
+  "message.carcass.need_knife": "You need a knife to cut the corpse",
+  "message.carcass.cutting": "Cutting: %s%%",
+  "tooltip.carcass.bonus": "Bonus item chance: %s%%",
+  "tooltip.carcass.speed": "Cutting time: %s s"
+}
